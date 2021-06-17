@@ -9,3 +9,7 @@ header{
 footer{
   background-color: red;
 }
+
+.class{
+  align-items: center;
+}
